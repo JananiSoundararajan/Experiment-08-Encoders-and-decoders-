@@ -141,7 +141,7 @@ endmodule
 
 ### OUTPUT WAVEFORM:
 #### Encoder-
-![image](https://github.com/Vanitha-SM/Experiment-08-Encoders-and-decoders-/assets/119557985/70bbd264-db31-4168-a6bf-26bab1e57d4e)
+![281952786-2a6afac1-4ebf-42e2-a91f-518bee1ba760](https://github.com/JananiSoundararajan/Experiment-08-Encoders-and-decoders-/assets/119477549/c0e153f9-6cb8-4ab7-9af8-35a161586baf)
 #### Decoder-
 ![image](https://github.com/Vanitha-SM/Experiment-08-Encoders-and-decoders-/assets/119557985/a43617b8-1253-4a69-90ee-778cb8b4dd6b)
 
